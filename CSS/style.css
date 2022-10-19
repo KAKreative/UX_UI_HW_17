@@ -5,18 +5,19 @@
     padding-left: 30px;
    
    }
-
+/* This is the header including logo and navigation */
    header{
     background-color:#000000; 
     padding: 15px;
    
    }
-
+/* This adjusts the position of the navigation */
  header ul{
    float: right;
    padding: -50px 11px;
 
  }
+ /* This adjusts the font style and color of the navigation */
   header li{
    display: inline-block;
    padding: 0px 11px;
@@ -26,14 +27,14 @@
    font-weight: normal;
    
   }
- 
+ /* This adjusts the position and size of my image */
  .heroImg{
  
    background-color:#71C5BD;
    padding: 100px 15px;
    
  }
-  
+  /* This adjusts all related text under my image */
  .content{
    padding: 50px;
     text-align:center;
@@ -43,18 +44,19 @@
     font-size: 18px;
     
  }
-  
+ /* This is the footer including size and color */
  footer{
     background-color: #000000;
     width: 100%;
    
  }
-  
+  /* This adjusts the location of the social media icons */
  .social{
     display: flex;
     justify-content: center;
   
   }
+   /* This adjusts the spacing between the social media icons */
  .social a {
    margin: 10px;
  }
